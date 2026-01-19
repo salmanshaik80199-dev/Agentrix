@@ -1,0 +1,9 @@
+langchain
+langchain-openai
+pydantic
+python-dotenv
+langgraph
+requests
+yt-dlp
+opencv-python
+numpy
